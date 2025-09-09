@@ -1,0 +1,386 @@
+﻿theme_id,total_docs,months_covered,first_month,example_label
+28,6953,71,2017-02,fake techsupport ; fake ; techsupport ; fake technical ; fake technical support ; technical support
+0,3358,37,2016-12,fakepopup ; fakepopup fake ; fake ; fakepopup fake alert ; fake alert ; alert
+100,2457,30,2017-09,apple ; fake apple ; fake apple support ; icloud ; apple support ; fake
+237,2336,29,2020-11,paypal ; toll free ; toll ; free ; paypal support ; fake paypal
+229,2118,24,2020-08,amazon ; amazonrefund ; ip ; kolkata ; refund ; fake
+183,1887,28,2019-04,fake microsoft ; microsoft pop ; fake microsoft pop ; pop fake microsoft ; microsoft pop fake ; pop fake
+186,1784,17,2019-04,ssa ; ssa ssa ; em ; indian ; em ssa ; ssa indian
+263,1764,31,2021-06,norton ; nortonrefund ; norton security ; invoice ; security ; antivirus
+327,1751,24,2022-09,geeksquad ; geeksquad geeksquad ; geeksquad refund ; refund ; invoice ; subscription
+311,1583,16,2022-05,sweepstakes ; lottery ; lottery winnings ; sweepstakes lottery winnings ; sweepstakes lottery ; winnings
+175,1472,26,2019-02,refund ; card ; microsoft ; called ; microsoft refund ; credit
+179,1273,14,2019-03,toll ; toll free ; free ; ssa ; provider ; ssa toll free
+267,1132,16,2021-07,norton ; nortonrefund ; subscription ; called ; lifelock ; norton lifelock
+13,1097,27,2016-12,irs ; fake irs ; fakeirs fake irs ; fakeirs fake ; fakeirs ; fake irs fakeirs
+39,1060,16,2017-03,techsupport ; new ; source ; techsupport techsupport ; come ; guys
+17,1042,24,2017-01,microsoft ; support ; support spammed ; spammed ; fake ; spammed fake windows
+18,997,18,2017-01,pop ; popup ; screenshot ; image ; fakepopup ; uk
+19,941,16,2017-01,techsupport ; microsoft ; llc ; microsoft technical support ; microsoft technical ; technical
+297,757,10,2022-01,paypal ; invoice ; refund ; transaction ; order ; paypal paypal
+155,745,11,2018-10,refund ; refund department ; department ; microsoft refund ; microsoft ; span
+161,710,8,2018-11,ssa ; social ; social security ; security ; ss ; active
+223,685,9,2020-06,cash app ; app ; cash ; cashapp ; tfn ; scamming
+2,675,9,2016-12,phone ; got ; new popup ; new ; popup ; larry
+118,657,11,2017-12,techsupport ; got ; techsupport techsupport ; techsupport techsupport techsupport ; support site ; techsupport just
+301,636,14,2022-03,mcafee ; cashapp ; cash app ; cash ; app ; mcafee refund
+187,566,4,2019-04,got ; called ; card ; money ; phone ; insurance
+54,518,11,2017-04,techsupport popup ; popup moo ; techsupport popup moo ; moo ; phone techsupport popup ; phone techsupport
+180,490,9,2019-03,ssa ; confirmed ssa ; confirmed ; hunting ; hunting ssa ; happy hunting
+192,483,3,2019-05,called ; calls ; insurance ; phone ; guy ; car
+188,431,6,2019-05,virus alert ; microsoft virus alert ; fake microsoft virus ; microsoft virus ; virus ; alert
+206,390,7,2019-11,apple ; amazon ; support ; apple support ; fake apple ; order
+196,363,3,2019-07,ssa ; type ; location ; operator ; details location ; phone details
+90,320,13,2017-08,png ; image ; png replace assets ; replace assets files ; files ; replace assets
+172,305,3,2019-01,ssa ; social security ; social ; security ; ssn ; fake
+289,300,5,2021-12,ad ; site ad ; porn ; porn site ; porn site ad ; site
+368,294,2,2024-02,crypto ; loan ; card ; wallet ; credit ; active
+343,291,5,2023-02,pch ; pch pch ; million ; winner ; congratulations ; new
+158,276,8,2018-11,size ; adaross ; size adaross ; size size adaross ; automated finds ; messages automatically
+339,273,3,2023-01,pch ; claim code ; claim ; code ; pch claim ; pch claim code
+341,246,5,2023-01,paypal support refund ; paypal support ; refund paypal support ; support refund paypal ; refund paypal ; paypal
+81,237,6,2017-07,apple ; apple support ; apple techsupport ; enjoy ; techsupport enjoy ; support
+332,231,2,2022-11,facebook ; facebook facebook ; facebook facebook facebook ; rats ; google ; google facebook
+190,224,5,2019-05,loan ; student ; student loan ; forgiveness ; loans ; called
+369,221,1,2024-03,crypto ; active ; blockchain ; gemini ; support ; tech
+14,212,3,2017-01,card ; credit card ; credit ; called ; calling ; like
+294,211,1,2022-01,bank ; gemini ; instagram ; financial ; crypto ; payments
+30,206,5,2017-02,popup ; alert ; microsoft ; microsoft popup ; warning ; microsoft popup popup
+318,204,3,2022-06,geeksquad ; group ; refund ; discord ; geeksquad refund ; server
+83,203,4,2017-07,microsoft ; microsoftsupport ; error ; microsoftsupport microsoftsupport ; dot ; microsoft xyz
+331,203,1,2022-10,text ; popup ; uk ; fake ; message ; uk popup
+220,202,3,2020-05,amazon ; amazonrefund ; card ; account ; amazon account ; amazonprime
+345,201,1,2023-02,popup ; loan ; uk ; medicare ; fake ; url
+348,197,1,2023-03,screenshot ; mega ; mega millions ; screenshot gyazo ; gyazo ; millions
+358,195,1,2023-09,microsoft ; sweepstakes ; pch ; lottery ; crypto ; winnings
+291,194,4,2021-12,security center ; security ; center ; ml ; error ; ga
+347,192,3,2023-03,pch ; arrow ; robocall arrow ; claim code ; claim ; robocall
+169,187,4,2019-01,loan ; debt ; student ; student loan ; business ; fake debt
+328,184,1,2022-09,loan ; student ; student loan ; debt ; called ; crypto
+258,183,1,2021-05,discord ; crypto ; associated ; steam ; account ; google
+333,181,2,2022-11,geeksquad ; invoice ; geeksquad geeksquad ; squad ; geeky ; geeky squad
+178,180,5,2019-03,insurance ; medical ; alert ; medical alert ; car ; warranty
+360,176,2,2023-11,credit ; loan ; card ; medicare ; assistance ; credit card
+338,175,1,2022-12,crypto ; walmart ; fake ; text ; grant ; phone
+124,172,3,2018-01,microsoft ; refund ; techsupport ; windows ; windows techsupport ; calling
+157,170,2,2018-10,cra ; phone ; called ; voice ; got ; message
+324,168,1,2022-08,tech ; loan ; telegram ; student ; student loan ; tech tech
+224,164,2,2020-06,amazon ; iphone ; amazonrefund ; card ; purchase ; order
+323,163,1,2022-08,techsupport ; outlook ; card ; tax ; medicare ; worth
+252,162,2,2021-04,norton ; mcafee ; antivirus ; isoftwareshop ; nortonrefund ; major
+225,161,1,2020-06,warranty ; car ; called ; insurance ; bank ; phone
+215,160,3,2020-04,warranty ; car ; car warranty ; auto ; auto warranty ; services
+193,157,1,2019-06,fake ; facebook ; card ; called ; calls ; got
+302,156,3,2022-03,loan ; debt ; student ; relief ; got ; time
+321,153,1,2022-07,bank ; facebook ; crypto ; card ; text ; fake
+49,151,3,2017-04,calling ; guys ; phone ; called ; ask ; like
+283,150,4,2021-10,loan ; student ; student loan ; student loan forgiveness ; forgiveness ; loan forgiveness
+138,148,2,2018-04,people ; called ; receive ; scamming ; called times ; times
+374,148,1,2024-05,crypto ; report ; arlo ; credit ; recovery ; self
+266,145,1,2021-06,active ; mail ; bitcoin ; romance ; site ; message
+152,142,3,2018-09,microsoft ; license ; key ; vm ; windows ; license key
+272,140,1,2021-07,loan ; fake ; credit ; card ; phone ; won
+306,135,1,2022-04,pch ; card ; called ; gift ; gift card ; medicare
+376,134,1,2024-06,cold ; amazon ; fake ; text ; tax ; loan
+380,132,1,2024-09,text ; order ; amazon ; card ; text message ; debt
+268,126,1,2021-07,ssa ; fish ; ssa ssa ; active ; tropical ; tropical fish
+296,124,2,2022-01,pch ; pch pch ; prizes ; prizes grants ; grants ; grants pch
+205,123,2,2019-10,bobrtc ; calling ; center ; times ; called ; bob
+236,123,1,2020-10,just ; insurance ; got ; car ; called ; calling
+295,123,1,2022-01,techsupport phone ; techsupport phone flagged ; flagged ; phone flagged ; false techsupport phone ; flagged false techsupport
+350,122,1,2023-04,text ; card ; bank ; crypto ; group ; romance
+221,118,1,2020-05,phone ; help ; scambait ; don ; scammed ; scambaiting
+367,115,3,2024-02,pch ; pch pch ; cold ; hello ; pch cold ; pch pch pch
+203,115,2,2019-09,refund ; refund refund ; fake ; fake refund ; refund fake ; refund fake refund
+336,113,1,2022-12,popup ; popup popup ; popup popup popup ; pop ; images ; callback
+317,112,1,2022-06,tech ; tech tech ; tech tech tech ; french ; directv ; drugs
+207,111,2,2019-12,microsoft popup ; popup ; appears working ; appears ; techsupport center ; working indian
+29,110,7,2017-02,firertc ; works ; works firertc ; work ; techsupport ; techsupport works firertc
+259,110,1,2021-06,ebay ; scamming ; ebay refund ; customers ; refund ; scamming ebay
+299,109,1,2022-02,ga ; services ga ; center services ga ; center services ; security center services ; services
+271,107,1,2021-07,techsupport ; aol ; techsupport techsupport ; microsoft ; support ; desktop
+146,106,1,2018-07,live ; new ; gift ; like ; time ; gift card
+351,106,1,2023-05,health ; tax ; business ; services ; fbi ; got
+200,103,1,2019-09,hotel ; booking ; card ; hotel booking ; credit ; credit card
+264,102,2,2021-06,discord ; whois ; registered ; whois lookup ; lookup reveals registered ; reveals registered
+141,102,1,2018-05,scammed ; card ; indian ; trying ; money ; people
+335,101,1,2022-11,phone ; crypto ; phone phone ; money ; message ; check
+227,99,1,2020-07,quickbooks ; qb ; toll ; toll free ; free ; quickbooks toll free
+261,97,2,2021-06,paypal ; cash app ; app ; cash ; paypal refund ; cashapp
+366,97,2,2024-02,coinbase ; coinbase techsupport ; community ; community coinbase ; gemini ; coinbase community
+213,97,1,2020-02,text ; phone ; calling ; money ; got ; like
+371,95,2,2024-04,pch ; million ; sweepstakes ; mega ; lottery ; pch pch
+198,93,1,2019-07,refund ; called ; just ; money ; job ; like
+154,92,3,2018-10,size ; adaross ; size adaross ; list ; site list size ; adaross site
+260,89,1,2021-06,ssa ; ssa ssa ; badge ; social security ; ssa active ; social
+156,88,1,2018-10,old ; year ; loan ; year old ; scammed ; husband
+326,87,1,2022-09,facebook ; facebook facebook ; live ; facebook live ; facebook facebook live ; facebook facebook facebook
+308,84,2,2022-04,airlines ; booking ; travel ; flight ; yelp ; flight booking
+316,83,1,2022-06,pch ; vm ; pch pch ; pch vm ; bank ; vm pch
+170,82,2,2019-01,said ; did ; like ; guy ; officer ; called
+249,81,1,2021-03,card ; gift ; discord ; money ; instagram ; gift card
+185,80,2,2019-04,jpeg ; image ; image bandicam ; bandicam ; upload ; image bandicam jpeg
+274,80,1,2021-08,ssa ; ssa ssa ; uk ; active ; ssa impersonation ; impersonation
+315,79,1,2022-05,crypto ; gemini ; phishing ; called ; fake ; suspend
+287,75,1,2021-11,facebook ; instagram ; crypto ; microsoft ; tax ; whatsapp
+381,74,1,2024-10,amazon ; text ; support ; amazonprime ; bank america ; america
+194,73,1,2019-07,dept chutiyas ; ssa dept chutiyas ; chutiyas ; ssa dept ; dept ; dept chutiyas ssa
+202,73,1,2019-09,twitch ; google ; live ; support ; time ; gmail
+320,73,1,2022-07,tech ; tech tech ; tech tech tech ; active tech ; active tech tech ; disney active tech
+346,72,1,2023-03,airlines ; delta ; kill ; american ; united ; carrier
+365,72,1,2024-01,crypto ; community ; pharmacy ; medicare ; called ; crypto community
+244,71,1,2021-01,gift ; people ; help ; card ; gift card ; instagram
+199,69,1,2019-08,bobrtc ; just ; use ; need ; says ; tabs
+217,68,1,2020-04,bitcoin ; phone ; blockchain ; bitcoin support ; support bitcoin ; bitcoin support bitcoin
+322,68,1,2022-08,facebook ; cashapp ; zelle ; instagram ; facebook facebook ; cash app
+373,67,1,2024-05,pch ; fake pch ; walmart ; gift card ; gift ; target
+253,66,1,2021-04,amazon ; report ; amazon amazon ; report site ; site google ; report site google
+359,66,1,2023-10,bank ; grant ; called ; received ; british ; want
+184,65,1,2019-04,jpeg ; alert ; upload ; warning ; jpeg upload jpeg ; bandicam jpeg upload
+357,64,1,2023-09,vm ; monday ; tuesday ; wednesday ; claim ; vm tuesday
+222,63,1,2020-06,roku ; activation ; roku activation ; free ; toll free ; toll
+93,62,4,2017-08,gift card ; gift ; card ; apple ; person ; said
+226,62,1,2020-07,nomorobo ; phone alert ; alert nomorobo ; phone alert nomorobo ; alert ; nomorobo ssa
+250,61,1,2021-04,printer ; hp ; hp printer ; printer hp ; printer hp printer ; hp printer hp
+280,60,1,2021-09,finacial ; yahoo ; reply ; crypto ; received ; financial
+377,60,1,2024-08,called ; fraud ; utility ; job ; loan ; site
+382,60,1,2024-10,hotlink ; warranty ; auto ; received ; hotlink received ; home
+31,59,3,2017-02,irs ; irs irs ; irs irs irs ; active ; irs live irs ; union grants irs
+168,59,2,2019-01,ssa ; suggests multiple ; multiple active ; intel suggests ; suggests multiple active ; suggests
+177,59,1,2019-02,guy ; called ; said ; hung ; got ; second
+189,59,1,2019-05,grasshopper ; grasshopper group ; group ; ssa grasshopper ; ssa ; hit
+149,58,1,2018-08,refund ; cra ; revenue agency ; canadian ; agency ; revenue
+334,58,1,2022-11,pch ; american ; gift ; american shoppers ; shoppers ; award
+66,57,2,2017-05,printer ; technical support ; technical ; new printer ; computers laptops ; laptops
+171,57,1,2019-01,png ; image ; upload ; png upload ; upload png ; png upload png
+277,57,1,2021-08,xyz ; boom ; boom boom ; fbi ; border ; tongue
+329,57,1,2022-10,facebook ; facebook facebook ; facebook facebook facebook ; redirecting ; bitcoin facebook ; redirecting facebook
+379,56,1,2024-09,hotlink ; aaa ; hotlink received ; received ; free ; emergency
+114,55,1,2017-11,phone ; called ; just ; cash ; advance ; cash advance
+181,55,1,2019-03,million ; mr ; fund ; fbi ; funds ; nigerian
+257,55,1,2021-05,robokiller ; robokiller lookup ; lookup ; loan ; student ; amazonrefund
+307,55,1,2022-04,discord ; associated ; server ; geeksquad ; popup ; registered
+319,55,1,2022-06,card ; airlines ; yelp ; gift card ; gift ; travel
+197,54,1,2019-07,support ; gmail ; facebook ; gmail support ; new ; support support
+243,54,1,2020-12,fake ; guy ; house ; new ; got ; working
+325,54,1,2022-09,tech tech ; tech ; tech tech tech ; sc tech tech ; suppot tech ; suppot
+370,54,1,2024-03,amazon ; tv ; amazonprime ; fubo ; fubo tv ; activation
+195,53,1,2019-07,irs ; dept rundis ; rundis ; ssa dept rundis ; dept ; rundi
+144,52,1,2018-06,called ; live ; phone ; like ; said ; job
+340,52,1,2023-01,facebook ; facebook facebook ; facebook facebook facebook ; recovery ; customer service ; facebook help
+84,51,2,2017-07,techsupport ; india ; fake ; fake techsupport ; india techsupport ; tech
+204,51,1,2019-10,money ; phone ; help ; new ; know ; calls
+208,51,1,2019-12,money ; bank ; power ; company ; scammed ; apartment
+352,51,1,2023-06,pch ; size ; color ; voicemail ; robocall arrow ; arrow
+201,50,1,2019-09,bobrtc ; bob ; minutes ; connecting ; working ; spoofed
+281,49,1,2021-10,ssa ; answered ; badge ; rats ; joy ; sewer
+209,48,1,2019-12,bobrtc ; bob ; calls ; add ; non ; phonebook
+342,48,1,2023-02,hemant chand ; chand ; hemant ; knot ; knot networks ; networks
+72,47,1,2017-06,know ; help ; banned ; join ; guy ; like
+219,47,1,2020-05,apple ; apple support ; cashapp ; support ; cash app ; cash
+251,47,1,2021-04,amazonprime ; amazonprime amazonprime ; amazonprime amazonprime amazonprime ; amazonprimetv ; amazonprimevideo ; amazonprimetv amazonprimetv
+353,46,1,2023-06,zelle ; fake zelle ; zelle fake ; zelle fake zelle ; fake zelle fake ; fake
+230,45,1,2020-08,calls ; called ; canada ; calling ; service ; phone
+312,45,1,2022-05,coinbase ; airlines ; imposters ; reservations ; spectrum ; yelp
+313,45,1,2022-05,ass ; ass ass ; hang ; ride ; fast ; don
+337,45,1,2022-12,pch ; ssa ; publisher clearing ; publisher clearing house ; publisher ; clearing house
+355,45,1,2023-07,pch ; voicemail ; size ; color ; claim ; claim code
+383,45,1,2024-11,card ; burner ; day ; called ; good day ; imf
+57,44,3,2017-04,fake ; pc ; virus ; support ; optimizer ; fake technical
+123,44,1,2018-01,called ; cra ; new ; just ; tell ; money
+210,44,1,2019-12,insurance ; health ; warranty ; car ; company ; pills
+344,44,1,2023-02,security ; security center ; center ; app ; apple ; security center services
+314,43,1,2022-05,loan ; loans ; fake ; mortgage ; synergy ; lending
+228,42,1,2020-08,quickbooks ; quickbooks support ; quickbooks techsupport ; support ; toll free ; toll
+234,42,1,2020-09,new ; services ; updated ; phone ; times ; called
+159,41,1,2018-11,firertc ; warranty ; car ; work ; car warranty ; aussie
+191,41,1,2019-05,level ; communications ; level communications ; ssa ; llc ; carrier
+349,41,1,2023-04,airlines ; kill ; airlines impersonator ; impersonator ; impersonator kill ; airlines impersonator kill
+378,41,1,2024-08,medicare ; insurance ; tax ; senior ; american ; healthcare
+174,40,1,2019-02,phone ; india ; facebook ; pakistan ; free ; fake
+214,40,1,2020-03,social ; social security ; security ; ssa ; got ; voicemail
+242,40,1,2020-12,google ; site ; people ; job ; know ; ad
+255,40,1,2021-05,hmrc ; uk ; national ; mobile ; national insurance ; insurance
+292,40,1,2021-12,paypal ; paypal paypal ; gift ; clown ; trying ; clown face
+304,40,1,2022-03,microsoft ; pop microsoft ; pop ; microsoft microsoft ; jp ; jp jp
+354,40,1,2023-06,loan ; tax ; relief ; debt ; debt relief ; rebate
+372,40,1,2024-04,bank ; bank america ; america ; ssa ; department ; fraud department
+166,39,1,2018-12,scambaiting ; check ; guys ; ve ; know ; database
+216,39,1,2020-04,amazon ; gift ; gift card ; card ; nomorobo ; warning nomorobo
+265,39,1,2021-06,directv ; gift ; cards ; discount ; gift cards ; punjabi
+269,39,1,2021-07,techsupport ; techsupport techsupport ; techsupport techsupport techsupport ; club ; vt ; club techsupport
+278,39,1,2021-09,ssa ; ss ; suspended ; joy ; ssa ssa ; activity
+298,39,1,2022-02,gemini ; crypto ; gemini crypto ; crypto live ; live ; crypto gemini
+330,39,1,2022-10,pch ; pch pch ; pch pch pch ; block ; nomorobo ; phone alert nomorobo
+364,39,1,2024-01,pch ; pch pch ; clearinghouse ; pch pch pch ; publishers clearinghouse ; publishers
+136,38,1,2018-04,april ; central ; april central ; central time ; april central time ; time
+231,38,1,2020-08,gmail ; popup ; uk ; pop ; gmail support ; site
+356,38,1,2023-08,card ; credit card ; credit ; calling client ; calling client services ; client services
+122,37,2,2018-01,card ; gift ; gift card ; free ; grants ; vacation
+140,37,1,2018-05,ct ; guy ; hung ; said ; ct live ; blah
+254,37,1,2021-05,garmin ; printer ; mohali ; hp ; located ; printer support
+276,37,1,2021-08,discord ; nitro ; server ; discord nitro ; whois ; group
+245,36,1,2021-01,insurance ; car ; warranty ; fake ; got ; saying
+262,36,1,2021-06,antivirus ; antivirus antivirus ; antivirus antivirus antivirus ; mcafee ; malwarebytes ; service
+286,36,1,2021-11,airlines ; reservations ; travel ; card ; air ; imposters
+293,36,1,2021-12,active ; active active ; imposters ; american ; update ; express
+309,36,1,2022-04,crypto ; gemini ; whatsapp ; instagram ; nigerian ; group
+310,36,1,2022-04,techsupport ; microsoft ; outlying islands ; islands ; outlying ; microsoft techsupport
+121,35,1,2017-12,guy ; time ; called ; lol ; new ; funny
+133,35,1,2018-03,people ; calling ; just ; active ; like ; russian
+163,35,1,2018-11,did ; omg ; guy ; minutes ; got ; hung
+165,35,1,2018-12,voice ; got ; called ; way ; said ; told
+182,35,1,2019-03,steal ; story ; scammerblaster ; scamming ; money ; started
+212,35,1,2020-01,bobrtc ; add ; dtmf ; new ; life ; like
+256,35,1,2021-05,card ; gift ; gift card ; chinese ; directv ; directv discount
+284,35,1,2021-10,bank ; crypto ; toll ; toll free ; cryptocurrency ; free
+303,35,1,2022-03,instagram ; crypto ; ukraine ; account ; help ; finance
+233,34,1,2020-09,travel ; airlines ; united ; delta ; airlines travel ; travel united
+275,34,1,2021-08,tv ; direct tv ; direct ; directv ; got ; cst
+290,34,1,2021-12,associated ; registered ; popup ; whois ; free ; discord
+305,34,1,2022-03,called ; airlines ; reservations ; travel ; unknown ; cold
+375,34,1,2024-06,coinbase ; robinhood ; kraken ; active ; support ; gemini
+86,33,2,2017-08,browser ; lock ; virus ; warning ; popup ; phone
+107,33,1,2017-10,illuminati ; fun ; youtube ; new ; great ; pizza
+131,33,1,2018-03,live ; march ; live march ; central ; central time ; march central
+239,33,1,2020-11,help ; like ; scambaiting ; time ; discord ; linux
+248,33,1,2021-03,hmrc ; uk ; uk hmrc ; centre ; hmrc usual ; reported
+282,33,1,2021-10,windows code ; code ; windows ; ga ; ml ; tk
+50,32,1,2017-04,tech ; techsupport ; vm ; microsoft ; open ; netstat
+176,32,1,2019-02,getting ; angry ; drunk ; screaming ; dont ; video
+211,32,1,2019-12,amazon ; amazonprime ; account ; travel ; amazon account ; robocaller
+232,32,1,2020-09,quickbooks ; intuit ; intuit quickbooks ; quickbooks techsupport ; payroll ; quickbooks payroll
+247,32,1,2021-03,printer ; hp ; hp printer ; support ; printer support ; image bandicam
+270,32,1,2021-07,discord ; steam ; server ; nitro ; roblox ; owner
+273,32,1,2021-08,printer ; printer support ; support ; canon ; fake printer ; hp
+300,32,1,2022-03,quickbooks ; quickbooks quickbooks ; quickbooks quickbooks quickbooks ; quickbook ; quickbooks quickbooks quickbook ; quickbooks quickbook
+363,32,1,2023-12,crypto ; rental ; fubo ; wallet ; new ; coinbase
+142,31,1,2018-06,june ; june ct ; ct ; woman ; spell ; hung
+148,31,1,2018-08,size ; messages automatically automated ; messages automatically ; popup list ; popup list size ; finds popups size
+150,31,1,2018-08,mcafee ; antivirus ; support ; techsupport ; mcafee support ; new
+151,31,1,2018-09,size ; replying ; adaross ; size size adaross ; automatically automated ; adaross replying
+218,30,1,2020-04,money ; site ; scambaiting ; baiting ; like ; people
+246,30,1,2021-02,hmrc ; live ; live gmt ; gmt ; hmrc live ; hmrc live gmt
+285,30,1,2021-11,car ; rental ; car rental ; warranty ; rental active ; car rental active
+74,29,1,2017-06,pop ; popup ; youtuber ; error ; phone ; windows
+139,29,1,2018-04,talk ; want ; funny ; want talk ; gift card ; ips
+143,29,1,2018-06,flip ; money ; money flip ; tells ; armour ; lets
+147,29,1,2018-07,popup ; mac ; pop ; tools ; ads ; im
+160,29,1,2018-11,phone ; help ; wasting ; time ; work ; state
+167,29,1,2019-01,refund ; microsoft refund ; microsoft ; firertc ; refund department ; windows refund
+27,28,1,2017-02,phone ; windows ; techsupport ; tech ; screenshot ; windows technical
+153,28,1,2018-09,sites ; ip ; craigslist ; personal ; know ; way
+235,28,1,2020-10,apple ; norton ; mcafee ; antivirus ; techsupport phone ; techsupport
+288,27,1,2021-11,paypal ; order ; paypal paypal ; wanted use ; armory ; springfield
+95,26,1,2017-09,browser ; lock ; browser lock ; australian ; free ; virus
+145,26,1,2018-07,works ; chrome ; edge ; chrome works ; popup ; german
+173,26,1,2019-02,cra ; canada ; faux cra ; faux ; phone ; primus
+241,26,1,2020-12,blah ; card ; directv ; blah blah ; gift ; discount
+279,26,1,2021-09,norton ; wanted ; connect ; wanted connect ; anydesk ; site
+129,25,1,2018-02,just ; online ; called ; live ; just finished ; finished
+162,25,1,2018-11,cra ; november ; ontario ; active ; canada ; ottawa
+240,25,1,2020-12,netgear ; netgear netgear ; netgear netgear netgear ; extender netgear ; netgear customer ; netgear customer service
+361,24,1,2023-12,apple ; fake apple ; bandwidth ; fake ; carrier ; using
+88,23,2,2017-08,loan ; credit card ; credit ; cash ; card ; bank
+113,23,1,2017-11,myphonesupport ; windows ; raid ; getting ; myphonesupport windows ; myphonesupport don
+238,23,1,2020-11,ssa ; india ; ip ; browser ; ip address ; address
+137,22,1,2018-04,phone ; support ; indian ; myphonesupport ; techsupport ; phone support
+134,21,1,2018-03,legit ; capable ; money ; app ; new ; security
+120,20,1,2017-12,active ; need ; kthx ; just ; sites ; report
+164,20,1,2018-12,cra ; funny ; angry ; guy ; scammed ; hell
+362,20,1,2023-12,pch ; pch pch ; pch pch pch ; won ; holland ; publishers
+110,19,2,2017-10,tech ; techsupport ; video ; pretty ; funny ; don know
+85,19,1,2017-08,phone august ; techsupport phone august ; fake techsupport phone ; august ; techsupport phone ; quickbooks
+40,18,1,2017-03,popup ; video ; guys ; just ; trolling ; microsoft
+73,18,1,2017-06,support ; fake ; support fake ; quickbooks ; gmail ; support claiming
+106,18,1,2017-10,got ; say ; cash advance ; fbi ; cash ; advance
+128,18,1,2018-02,rat ; skype ; want ; free ; facebook ; links
+135,18,1,2018-04,said ; officer ; april ; central time ; central ; time
+116,17,1,2017-12,bitcoin ; bitcoin bitcoin ; bitcoin bitcoin bitcoin ; bitcoin support ; amazon ; support bitcoin
+82,16,1,2017-07,bid ; cloudfront ; club ; west amazonaws ; west ; amazonaws
+105,16,1,2017-10,grant ; business ; unsecured ; unsecured business ; grants ; card
+127,16,1,2018-02,indian ; people ; called ; fake ; hell ; gets pissed
+132,16,1,2018-03,norton ; norton norton ; new norton ; make calls ; norton new ; lets make
+45,15,2,2017-03,zeus ; virus ; zeus virus ; screenshot ; hard ; fake zeus
+63,15,1,2017-05,called ; skype ; card ; music ; hold ; hold music
+64,15,1,2017-05,fun ; called ; reputation ; rules ; couple ; replace
+71,15,1,2017-06,prank ; bid ; cold ; called ; calling ; aonline
+111,15,1,2017-11,noise ; change ; beeping ; beeping noise ; techsupport change ; change caller id
+125,15,1,2018-01,wirus ; fake ; index ; fake wirus ; australian ; wirus popup
+384,15,1,2024-11,tv ; streaming ; internet ; phone ; streaming tv ; tv phone
+41,14,1,2017-03,windows ; firertc ; does ; popup ; google ; phone
+42,14,1,2017-03,called ; links ; xbox ; proceeded ; got ; person
+68,14,1,2017-05,popup ; techsupport ; popups ; site ; macbook ; message websi
+87,14,1,2017-08,english ; english speaking ; speaking ; moderator ; phone ; removed
+104,14,1,2017-10,india ; big ; phone ; city ; png ; files
+109,14,1,2017-10,working ; working working ; working working working ; canada ; enjoy ; supporting enjoy
+115,14,1,2017-11,techsupport ; throw ; throw away ; techsupport called ; away ; spam heck
+117,14,1,2017-12,gmail ; gmail gmail ; gmail support ; gmail gmail gmail ; support ; gmail support gmail
+119,14,1,2017-12,tech ; lol ; techsupport ; press ; refunded ; possible
+130,14,1,2018-02,techsupport ; popup ; screenshots ; microsoft techsupport ; new techsupport ; error
+1,13,1,2016-12,fakesite ; support ; norton support ; norton ; fake ; support fakesite
+76,13,1,2017-06,virus ; microsoft ; guys ; phone ; called ; send virus
+89,13,1,2017-08,cold ; called ; like ; chrome ; calls ; voice
+112,13,1,2017-11,printer ; hp ; hp printer ; told ; fun ; support micorosoft gmail
+15,12,1,2017-01,skype ; firertc ; key ; working ; record button ; record
+16,12,1,2017-01,techsupport ; gentech ; aka ; company ; calls ; managment
+43,12,1,2017-03,support fake ; support ; fake ; hp ; chrome ; mimics chrome
+79,12,1,2017-07,banned ; money ; moderators ; money flipping ; ratting ; flipping
+80,12,1,2017-07,gift ; weird ; gift card ; phone ; card ; story
+3,11,1,2016-12,daniel ; admin ; cookie ; admin admin ; nco ; nco daniel
+4,11,1,2016-12,godaddy ; godaddy web host ; web host ; registrar godaddy web ; whois protection ; godaddy web
+51,11,1,2017-04,irs ; grant ; federal ; investigation ; arrested ; code
+96,11,1,2017-09,got ; called ; windows ; john ; bank ; asked
+108,11,1,2017-10,working ; working working ; working working working ; indian ; india ; swapnica jain
+126,11,1,2018-01,techsupport ; kill ; tech ; safe ; stay safe ; sort
+32,10,1,2017-02,toll ; toll free ; make ; free ; api ; centers
+33,10,1,2017-02,popup ; drive ; hard ; hard drive ; fake popup ; fake
+44,10,1,2017-03,business ; bank ; beneficiary ; blanchard ; car ; luong
+52,10,1,2017-04,gift ; card ; gift card ; money ; fr kenneth ; kansas
+91,10,1,2017-08,video ; youtube ; youtube video ; scambaiting ; ip ; techsupport got
+92,10,1,2017-08,way ; angry ; way contact ; bait ; payment gateway ; best way
+94,10,1,2017-08,uk ; firertc ; dial ; got ; voucher cold ; example
+5,9,1,2016-12,rules ; blah ; failed ; meant ; ssl ; sent
+6,9,1,2016-12,site ; popup ; pop ; site feedback ; torpedoalvarix ; fake pop
+34,9,1,2017-02,walmart ; gift ; card ; gift card ; moment ; funniest moment
+53,9,1,2017-04,popup ; popups ; url ; browser ; phone ; popup url
+97,9,1,2017-09,card ; called ; mad ; mad say ; rewards card ; participating
+7,8,1,2016-12,microsoft ; machine ; warning ; virtual ; hyper manager ; vmware
+8,8,1,2016-12,browlock ; phone ; popup working ; popup working host ; working host browlock ; working host
+9,8,1,2016-12,techsupport ; working techsupport ; working ; odesa ; techsupport phone ; code
+55,8,1,2017-04,firertc ; works ; works firertc ; hangouts ; microsoft ; work
+56,8,1,2017-04,cid ; brolo ; moo ; brolo moo ; critical ; tss brolo
+61,8,1,2017-05,vm ; vpn ; time vm ; vm techsupport ; vmware ; payezee
+65,8,1,2017-05,techsupport ; freaking ; pctech dead ; pctech ; fun troll ; mom
+67,8,1,2017-05,virus ; zeus ; chrome ; browser ; zeus virus ; mycleanpc
+69,8,1,2017-06,browser lock ; lock ; browser ; freecall ; techsupport browser lock ; techsupport browser
+78,8,1,2017-06,services ; indian ; floyd services ; microphone ; left microphone ; witinfotech
+98,8,1,2017-09,alert ; september ; medical alert ; medical ; bitcoin ; hp
+99,8,1,2017-09,iyogi ; indian techsupport ; indian ; company ; car loan ; nigerian
+20,7,1,2017-01,fakesite ; uk ; removed ; aberdeen ; removed fakesite callpcexpert ; wemotechsupport
+35,7,1,2017-02,posting ; redirect ; account suspended ; suspended ; links ; account
+46,7,1,2017-03,skype ; ip ; skype skype ; reason ; wireshark ; remote session
+47,7,1,2017-03,virtual ; redirected ; locked ; machine ; virtual machine ; computer locked
+70,7,1,2017-06,facebook ; facebook support ; support ; claiming facebook ; account ; wanted
+75,7,1,2017-06,microsoft ; microsoft support ; business ; microsoft techsupport ; removed ; support
+77,7,1,2017-06,vm ; computer ; angry ; access ; shut ; did
+10,6,1,2016-12,techsupport ; fake techsupport ; fake ; apis ; quite variants urls ; src
+11,6,1,2016-12,christmas ; merry ; merry christmas ; called ; play songs ; just called
+12,6,1,2016-12,targeting ; targeting uk ; browlock ; uk ; browlock targeting ; browlock registered
+21,6,1,2017-01,fund ; year ; western ; facebook ; union ; happy
+22,6,1,2017-01,registrar ; godaddy ; spammed internet archive ; web host ; internet ; spammed internet
+36,6,1,2017-02,indian ; help ; log ; ip ; teamviewer ; pc purifier
+37,6,1,2017-02,microsoft ; lol ; real ; fake ; people common interests ; microsoft se insistent
+48,6,1,2017-03,phone ; removal ; fake ; personal phone ; fake isp ; removing
+62,6,1,2017-05,australian ; australian freecall ; freecall ; dead ; australian freecall dead ; freecall dead
+101,6,1,2017-09,free ; free flight ; flight ; groups ; skype groups ; tips
+102,6,1,2017-09,comment ; channel ; fun ; trolling ; telegram ; telegram channel
+103,6,1,2017-09,notepad ; fake notepad ; notepad application ; fake notepad application ; program ; application
+23,5,1,2017-01,support ; fake ; support fake ; asus ; facebook support ; asussupport fake gmail
+24,5,1,2017-01,popup ; computer locked tollfreenow ; computer locked ; checked ; tollfreenow ; updated
+25,5,1,2017-01,pckeeper ; bhen ; indian ; mackeeper ; hxxps ; bhen da
+26,5,1,2017-01,popup ; barewire ; popups ; bsod ; infected ; using
+38,5,1,2017-02,provide ; friends ; unfortunately ; hey ; bakrichood ; bakrichood techsupport
+58,5,1,2017-04,networksecurity ; amazonaws ; error ; moo ; moo error warning ; redirects
+59,5,1,2017-04,fake ; fake trading ; trading ; auto ; texttospeech reading ; tech fake new
+60,5,1,2017-04,company ; kevin ; forex ; forex company ; adaption ; opened logistics
